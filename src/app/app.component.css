@@ -1,0 +1,35 @@
+
+.app {
+    background: #eee;
+    height: 100vh;
+}
+
+.sidebar {
+    background: #f5f5f5;
+}
+
+.padTop {
+    padding-top: 60px;
+}
+
+.sidebar button {
+    display: block;
+    margin: 18px auto;
+    padding: 30px 50px;
+}
+
+.action {
+    margin: 10px 0px;
+}
+
+.main-content {
+    padding: 20px
+}
+
+.img-container img {
+    width: 100%
+}
+
+.item {
+    margin: 10px;
+}
